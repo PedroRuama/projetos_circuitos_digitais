@@ -1,0 +1,15 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY logica IS 
+	PORT (
+		A, B : IN STD_LOGIC_VECTOR(0 TO 4);
+		RE, RXOR, ROU : OUT STD_LOGIC_VECTOR(0 TO 4)
+	);
+END logica;
+
+ARCHITECTURE funclogica OF logica IS
+
+BEGIN
+	
+END funclogica;

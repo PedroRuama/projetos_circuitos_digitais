@@ -1,0 +1,15 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY mux IS 
+	PORT (
+		F : IN STD_LOGIC_VECTOR(0 TO 2);
+		EnA, EnB, InvA, InvB, C0, O1, O0 : OUT STD_LOGIC
+	);
+END mux;
+
+ARCHITECTURE funcmux OF mux IS
+
+BEGIN
+	
+END funcmux;
