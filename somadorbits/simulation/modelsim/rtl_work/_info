@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\somadorbits\simulation\modelsim
+Efa
+Z1 w1720112039
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\altera\13.0sp1\somadorbits\simulation\modelsim
+Z5 8C:/altera/13.0sp1/somadorbits/fa.vhd
+Z6 FC:/altera/13.0sp1/somadorbits/fa.vhd
+l0
+L6
+Vkk1Hn>O6XRC0JQSLfiJQ:1
+!s100 o?l@_]HJ0`:?A?gMo=YkK3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1720112229.891000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/somadorbits/fa.vhd|
+Z10 !s107 C:/altera/13.0sp1/somadorbits/fa.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Asumbit
+R2
+R3
+DEx4 work 2 fa 0 22 kk1Hn>O6XRC0JQSLfiJQ:1
+l21
+L17
+VM5YM50noAeClWT`WnJ6SY0
+!s100 MmlSAI5ceRGR7YOf7[Ghz1
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Esomadorbits
+Z13 w1720112040
+R2
+R3
+R4
+Z14 8C:/altera/13.0sp1/somadorbits/somadorbits.vhd
+Z15 FC:/altera/13.0sp1/somadorbits/somadorbits.vhd
+l0
+L8
+VKk0O[nb[BO@cJZh<zMSJ?3
+R7
+31
+Z16 !s108 1720112229.704000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/altera/13.0sp1/somadorbits/somadorbits.vhd|
+Z18 !s107 C:/altera/13.0sp1/somadorbits/somadorbits.vhd|
+R11
+R12
+!s100 X7:?Nm=BRk>B9DL]PEGR?2
+!i10b 1
+Aq
+R2
+R3
+DEx4 work 11 somadorbits 0 22 Kk0O[nb[BO@cJZh<zMSJ?3
+l31
+L17
+V]3mC5<>I<_IEffFacdcZG1
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 azhNP@jemCL@JmF@;<i990
+!i10b 1

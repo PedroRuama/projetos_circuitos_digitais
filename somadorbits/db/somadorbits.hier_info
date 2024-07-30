@@ -1,0 +1,60 @@
+|somadorbits
+A[0] => FA:FA0.Ai
+A[1] => FA:FA1.Ai
+A[2] => FA:FA2.Ai
+A[3] => FA:FA3.Ai
+B[0] => FA:FA0.Bi
+B[1] => FA:FA1.Bi
+B[2] => FA:FA2.Bi
+B[3] => FA:FA3.Bi
+S[0] << FA:FA0.Si
+S[1] << FA:FA1.Si
+S[2] << FA:FA2.Si
+S[3] << FA:FA3.Si
+S[4] << FA:FA3.Cout
+
+
+|somadorbits|FA:FA0
+Ai => X.IN0
+Ai => Cout.IN0
+Bi => X.IN1
+Bi => Cout.IN1
+Cin => Si.IN1
+Cin => Cout.IN1
+Si <= Si.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somadorbits|FA:FA1
+Ai => X.IN0
+Ai => Cout.IN0
+Bi => X.IN1
+Bi => Cout.IN1
+Cin => Si.IN1
+Cin => Cout.IN1
+Si <= Si.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somadorbits|FA:FA2
+Ai => X.IN0
+Ai => Cout.IN0
+Bi => X.IN1
+Bi => Cout.IN1
+Cin => Si.IN1
+Cin => Cout.IN1
+Si <= Si.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|somadorbits|FA:FA3
+Ai => X.IN0
+Ai => Cout.IN0
+Bi => X.IN1
+Bi => Cout.IN1
+Cin => Si.IN1
+Cin => Cout.IN1
+Si <= Si.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= Cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

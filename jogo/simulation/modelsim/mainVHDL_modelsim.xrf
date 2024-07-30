@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Usuario/Desktop/LabCD2024/Turma A/Aula 1/mainVHDL.vhd
+source_file = 1, C:/Users/Usuario/Desktop/LabCD2024/Turma A/Aula 1/db/mainVHDL.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = mainVHDL
+instance = comp, \c~I\, c, mainVHDL, 1
+instance = comp, \b~I\, b, mainVHDL, 1
+instance = comp, \a~I\, a, mainVHDL, 1
+instance = comp, \y~0\, y~0, mainVHDL, 1
+instance = comp, \y~I\, y, mainVHDL, 1
